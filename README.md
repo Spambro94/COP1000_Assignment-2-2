@@ -17,6 +17,6 @@ requiredFiles = [".replit", "replit.nix"]
 [deployment]
 run = ["python3", "main.py"]
 deploymentTarget = "cloudrun"
-myCurrentage = 30
-currentYear = 2025
-execute
+# myCurrentage = 30
+# currentYear = 2025
+# execute
