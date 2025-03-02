@@ -1,4 +1,3 @@
-# COP1000_Assignment-2-2
 entrypoint = "main.py"
 modules = ["python-3.10:v18-20230807-322e88b"]
 
